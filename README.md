@@ -1,7 +1,7 @@
 # Proyecto de Programación Orientado a Objetos
 
 <div style="text-align:center; font-size: 15px;">
-    <b>Nombre del equipo</b>
+    <b>Nombre del equipo: team_laberinto</b>
 </div>
 
 Integrantes - (Usuarios Github:):
@@ -13,8 +13,8 @@ Integrantes - (Usuarios Github:):
 2.- <b>nombre_completo2</b><br>
     <i>usuario_github2</i>
 
-3.- <b>nombre_completo3</b><br>
-    <i>usuario_github3</i>
+3.- <b>nombre_completo3: Alexandra Amy Zevallos Carhuamaca</b><br>
+    <i>usuario_github3: alexandra-zevallos</i>
 
 Instrucciones:
 --
