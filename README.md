@@ -5,7 +5,7 @@
 </div>
 
 Integrantes - (Usuarios Github:):
---
+-
 
 1.- <b>nombre_completo1</b><br>
     <i>usuario_github1</i>
